@@ -1,0 +1,36 @@
+# Список URL учебных материалов — по одному на строку.
+# Строки, начинающиеся с #, игнорируются.
+# Агент автоматически определяет предмет, тему и тип занятия.
+#
+# Формат: просто URL, по одному на строку.
+# Поддерживаются: HTML-страницы, PDF, DOCX, XLSX, изображения, видео, аудио (OGG и др.)
+#
+# ──────────────────────────────────────────────────────────────────────────
+# МАТЕМАТИКА
+# ──────────────────────────────────────────────────────────────────────────
+https://en.wikipedia.org/wiki/Calculus
+https://en.wikipedia.org/wiki/Linear_algebra
+https://en.wikipedia.org/wiki/Probability_theory
+https://en.wikipedia.org/wiki/Statistics
+https://en.wikipedia.org/wiki/Differential_equation
+https://en.wikipedia.org/wiki/Discrete_mathematics
+
+# ──────────────────────────────────────────────────────────────────────────
+# ИНФОРМАТИКА / КОМПЬЮТЕРНЫЕ НАУКИ
+# ──────────────────────────────────────────────────────────────────────────
+https://en.wikipedia.org/wiki/Python_(programming_language)
+https://en.wikipedia.org/wiki/Algorithm
+https://en.wikipedia.org/wiki/Data_structure
+https://en.wikipedia.org/wiki/Database
+https://en.wikipedia.org/wiki/Machine_learning
+https://en.wikipedia.org/wiki/Deep_learning
+https://en.wikipedia.org/wiki/Artificial_intelligence
+https://en.wikipedia.org/wiki/Computer_network
+
+# ──────────────────────────────────────────────────────────────────────────
+# ФИЗИКА
+# ──────────────────────────────────────────────────────────────────────────
+https://en.wikipedia.org/wiki/Classical_mechanics
+https://en.wikipedia.org/wiki/Thermodynamics
+https://en.wikipedia.org/wiki/Electromagnetism
+https://en.wikipedia.org/wiki/Quantum_mechanics
