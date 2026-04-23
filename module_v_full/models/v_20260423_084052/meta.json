@@ -1,0 +1,33 @@
+{
+  "version": "20260423_084052",
+  "trained_at": "2026-04-23T08:40:52.877221",
+  "update_type": "incremental",
+  "drift_pct": 0.09090909090909091,
+  "n_materials": 8,
+  "models": {
+    "parallel_cluster": {
+      "algorithm": "LogisticRegression",
+      "file": "C:\\Users\\User\\Desktop\\model_V_full\\models\\v_20260423_084052\\parallel_cluster_best.joblib",
+      "metrics": {
+        "f1": 1.0,
+        "accuracy": 1.0
+      }
+    },
+    "sequential_cluster": {
+      "algorithm": "RandomForestClassifier",
+      "file": "C:\\Users\\User\\Desktop\\model_V_full\\models\\v_20260423_084052\\sequential_cluster_best.joblib",
+      "metrics": {
+        "f1": 1.0,
+        "accuracy": 1.0
+      }
+    },
+    "complexity_cluster": {
+      "algorithm": "LogisticRegression",
+      "file": "C:\\Users\\User\\Desktop\\model_V_full\\models\\v_20260423_084052\\complexity_cluster_best.joblib",
+      "metrics": {
+        "f1": 1.0,
+        "accuracy": 1.0
+      }
+    }
+  }
+}

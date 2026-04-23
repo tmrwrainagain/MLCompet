@@ -1,0 +1,40 @@
+{
+  "version": "20260423_054741",
+  "trained_at": "2026-04-23T05:47:41.777175",
+  "n_materials": 8,
+  "models": {
+    "parallel_cluster": {
+      "algorithm": "LogisticRegression",
+      "file": "C:\\Users\\User\\Desktop\\model_V_full\\notebooks\\..\\models\\v_20260423_054741\\parallel_cluster_best.joblib",
+      "metrics": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "roc_auc": NaN
+      }
+    },
+    "sequential_cluster": {
+      "algorithm": "RandomForest",
+      "file": "C:\\Users\\User\\Desktop\\model_V_full\\notebooks\\..\\models\\v_20260423_054741\\sequential_cluster_best.joblib",
+      "metrics": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "roc_auc": 1.0
+      }
+    },
+    "complexity_cluster": {
+      "algorithm": "LogisticRegression",
+      "file": "C:\\Users\\User\\Desktop\\model_V_full\\notebooks\\..\\models\\v_20260423_054741\\complexity_cluster_best.joblib",
+      "metrics": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "roc_auc": NaN
+      }
+    }
+  }
+}
